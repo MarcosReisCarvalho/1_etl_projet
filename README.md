@@ -1,2 +1,2 @@
-# 1_etl_projet
+# 1_etl_project
 My first ETL project using streamlit
